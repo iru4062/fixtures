@@ -22,7 +22,7 @@
 	</div>
 
 	<div>
-		<table class="table table-bordered">
+		<table class="table table-bordered"> 
 				<!-- 8개 -->
 				<tr>
 				  	<td>No</td>
