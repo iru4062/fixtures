@@ -10,7 +10,7 @@
 
 <body>
 
-	<jsp:include page="./common/top.jsp"></jsp:include>
+	<jsp:include page="./common/top.jsp"></jsp:include> 
 
 	<div style="background-color:gray; width:100%; height:100px;"></div>
 	<br/>
